@@ -1,3 +1,4 @@
+let Exercise = alert("This is Exercise 2")
 let fn = prompt("Enter a number");
 let op = prompt("Enter an operator e.g +, -, *");
 let ln = prompt("Enter another number");

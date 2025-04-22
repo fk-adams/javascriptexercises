@@ -1,3 +1,4 @@
+let Exercise = alert("This is Exercise 7")
 let guess = prompt("Guess a number between 1-5 (input your answer in numbers)");
 guess = Number(guess);
 if (guess === 4) {

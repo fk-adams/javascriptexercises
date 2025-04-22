@@ -1,3 +1,4 @@
+let Exercise = alert("This is Exercise 3")
 let age = prompt("How old are you? ");
 if (age >= 18) {
     alert("You are eligible to vote");
