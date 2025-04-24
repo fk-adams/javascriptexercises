@@ -1,4 +1,4 @@
-let Exercise = alert("This is Exercise 6")
+// let Exercise = alert("This is Exercise 6")
 let score = prompt("Enter your score in numbers (0-100)");
 
 if (score >= 70 && score <= 100) {
